@@ -1,14 +1,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 
     body{
-        font-family: "Josefin Sans", sans-serif;    }
+        font-family: "Josefin Sans", sans-serif;   
+    text-align: center;
+}
+    
+        
 
 .foryou img{
     height: 200px;
-    padding: 10%;
-    
+    padding: 100px;
 }
 
 .botoes{
     text-align: center;
+    margin-right: 20;
+
 }
+
+.foryou{
+    font-size: 30px;
+}
+
+.botoes a {
+    margin: 15px;
+
+}
+
+    .botoes a:hover{
+        color: black;
+
+    }
+
+    .botoes a{
+    color: blue;
+    }
+
+    
+
+
