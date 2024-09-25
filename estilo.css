@@ -36,6 +36,25 @@
     color: blue;
     }
 
+.caixa-de-login a{
+    margin: 20px;
+}
+
+.caixa-de-login p {
+    margin-bottom: 5px;
+}
+
+.caixa-de-login input{
+    height: 20px;
+    font-size: 1.1rem;
+    padding-left: 10px;
+
+
+
+}
+.login {
+    background-color: rgb(45, 129, 226);
+}
     
 
 
