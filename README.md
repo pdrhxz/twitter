@@ -7,7 +7,7 @@ Esse projeto está implementando o sistema "twitter" que representa uma rede soc
 - Internet 
 - Visual studio code
 - Phyton
-- Biblioteca flask para phyton
+- Biblioteca flask para python
 - extensão phyton do VS code
 
 ## CLONAR REPOSITÓRIO DO GITHUB
@@ -21,4 +21,23 @@ Esse projeto está implementando o sistema "twitter" que representa uma rede soc
 4. escolha o repositório do projeto para clonar 
 
 5. Deseja abrir o repositório clonado? Abrir
+
+## INSTALAR A EXTENSÃO DO PYTHON 
+
+1. Clique em "extensões" no menu a esquerda 
+
+2. Procure por "python"
+
+3. Clique em "instalar"
+
+## Instalar a biblioteca "Flask"
+
+1. Abrir um novo terminal: barra de ferramentas > três pontinhos > terminal > novo terminal.
+
+2. Digite o comando "pip install flask -- user" e pressionar "enter"
+
+## CONFIGURANDO GIT
+
+1. No terminal digite os comandos: 
+- git config user.name seu_usuario 
 
