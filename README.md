@@ -39,5 +39,9 @@ Esse projeto está implementando o sistema "twitter" que representa uma rede soc
 ## CONFIGURANDO GIT
 
 1. No terminal digite os comandos: 
-- git config user.name seu_usuario 
+- git config user.name seu_usuario
+- git config user.email seu_nome@email.com
+## COMO EXECUTAR O SERVIDOR 
+
+1. Clique com o botão direito no arquivo "app.py" e selecione "executar o arquivo python no terminal"
 
